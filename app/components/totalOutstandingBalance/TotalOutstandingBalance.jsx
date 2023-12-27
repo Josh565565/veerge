@@ -3,7 +3,7 @@ import { Box, Flex, Text, Image } from "@chakra-ui/react";
 function TotalOutstandingBalance() {
   return (
     <Box
-      border="1px solid"
+      boxShadow="0px 4px 8px 0px rgba(0, 0, 0, 0.02)"
       rounded="12px"
       w="418px"
       h="287px"

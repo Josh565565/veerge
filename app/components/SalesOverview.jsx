@@ -38,9 +38,10 @@ const date = [
 function SalesOverview() {
   return (
     <Box
-      width="856px"
+      // width="856px"
+      width="70%"
       height="325px"
-      border="1px solid"
+      boxShadow="0px 4px 8px 0px rgba(0, 0, 0, 0.02)"
       rounded="16px"
       ml="78px"
     >

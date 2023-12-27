@@ -8,10 +8,9 @@ function ListingOverview() {
       h="287px"
       ml="83px"
       rounded="12px"
-      border="1px solid"
+      boxShadow="0px 4px 8px 0px rgba(0, 0, 0, 0.02)"
       mt="20px"
       p="15px"
-      boxShadow="0px 4px 8px 0px rgba(0, 0, 0, 0.02)"
     >
       <Text>Listing Overview</Text>
       <Flex justifyContent="space-between" mt="10px">

@@ -7,7 +7,7 @@ function PropertyCustomersOverview() {
         w="407px"
         h="157px"
         p="20px"
-        border="1px solid"
+        boxShadow="0px 4px 8px 0px rgba(0, 0, 0, 0.02)"
         rounded="12px"
         mr="78px"
       >
@@ -67,7 +67,7 @@ function PropertyCustomersOverview() {
         w="407px"
         h="157px"
         p="20px"
-        border="1px solid"
+        boxShadow="0px 4px 8px 0px rgba(0, 0, 0, 0.02)"
         rounded="12px"
         mr="78px"
         mt="10px"

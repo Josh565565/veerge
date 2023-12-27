@@ -6,7 +6,7 @@ function TopSelling() {
       w="350px"
       h="287px"
       rounded="16px"
-      border="1px solid"
+      boxShadow="0px 4px 8px 0px rgba(0, 0, 0, 0.02)"
       p="20px"
       mt="20px"
       mr="83"
