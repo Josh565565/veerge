@@ -14,7 +14,7 @@ function PropertyCustomersOverview() {
         <Flex alignItems="center" justifyContent="space-between">
           <Flex alignItems="center" gap="8px">
             <Image
-              src="../../images/property-icon.svg"
+              src="../../images/ho.svg"
               alt="Property"
               width="24px"
               height="24px"

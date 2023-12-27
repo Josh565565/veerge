@@ -45,7 +45,7 @@ export default function TopNav() {
 
         <Flex alignItems="center" gap="45px">
           <Flex alignItems="center" gap="28px">
-            <Image src="../../images/Plus.svg" alt="Logo" />
+            <Image src="../../images/pl.svg" alt="Logo" />
             <Image
               // as="button"
               src="../../images/Calendar.svg"
